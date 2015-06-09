@@ -6,7 +6,7 @@
 Name:       sailfishos-eventsview-controls-remastered-patch
 
 # >> macros
-BuildArch: armv7hl
+BuildArch: noarch
 # << macros
 
 Summary:    Eventsview controls patch with settings
